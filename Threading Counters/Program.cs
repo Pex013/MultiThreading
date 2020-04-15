@@ -11,11 +11,11 @@ namespace Threading_Counters
             NOTE TO SELF:
             creating threads and initialize them, This didn't work, could not
             start the threads so i need to initialize the name later.
-            var counter1 = new Thread(Counter.Count);
-            var counter2 = new Thread(Counter.Count);
-            var counter3 = new Thread(Counter.Count);
-            var counter4 = new Thread(Counter.Count);
-            var counter5 = new Thread(Counter.Count);
+            var counter1 = new Thread(Counter.Count).Name = "counter 1";
+            var counter2 = new Thread(Counter.Count).Name = "counter 2";
+            var counter3 = new Thread(Counter.Count).Name = "counter 3";
+            var counter4 = new Thread(Counter.Count).Name = "counter 4";
+            var counter5 = new Thread(Counter.Count).Name = "counter 5";
             */
 
             //creating threads and initialize them
