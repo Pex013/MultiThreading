@@ -11,3 +11,26 @@ C:\Users\Patrick\Stock windows\Documents\GitHub\threading\Threading Counters\obj
 C:\Users\Patrick\Stock windows\Documents\GitHub\threading\Threading Counters\obj\Debug\netcoreapp3.1\Threading Counters.dll
 C:\Users\Patrick\Stock windows\Documents\GitHub\threading\Threading Counters\obj\Debug\netcoreapp3.1\Threading Counters.pdb
 C:\Users\Patrick\Stock windows\Documents\GitHub\threading\Threading Counters\obj\Debug\netcoreapp3.1\Threading Counters.genruntimeconfig.cache
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Threading Counters.exe
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Threading Counters.deps.json
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Threading Counters.runtimeconfig.json
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Threading Counters.runtimeconfig.dev.json
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Threading Counters.dll
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Threading Counters.pdb
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\obj\Debug\netcoreapp3.1\Threading Counters.csprojAssemblyReference.cache
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\obj\Debug\netcoreapp3.1\Threading Counters.AssemblyInfoInputs.cache
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\obj\Debug\netcoreapp3.1\Threading Counters.AssemblyInfo.cs
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\obj\Debug\netcoreapp3.1\Threading Counters.dll
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\obj\Debug\netcoreapp3.1\Threading Counters.pdb
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\obj\Debug\netcoreapp3.1\Threading Counters.genruntimeconfig.cache
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\obj\Debug\netcoreapp3.1\Threading Counters.csproj.CopyComplete
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Patrick\Stock windows\Documents\GitHubSchool\School\Semester_3\Exercises\MultiThreading\Threading Counters\obj\Debug\netcoreapp3.1\Threading Counters.csproj.CoreCompileInputs.cache
