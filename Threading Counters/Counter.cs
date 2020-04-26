@@ -27,13 +27,14 @@ namespace Threading_Counters
             for (var number = 0; number < 100; number++)
             {
                 Console.WriteLine($"{DateTime.Now} : number {number} is counted by {Thread.CurrentThread.Name}");
-                TotalCount++;
+
+                lock (this)
+                {
+                    TotalCount++;
+                }
             }
 
-            lock (this)
-            {
-                Console.WriteLine($"Total count for all threads : {TotalCount}");
-            }
+            Console.WriteLine($"Total count for all threads : {TotalCount}");
         }
     }
 }

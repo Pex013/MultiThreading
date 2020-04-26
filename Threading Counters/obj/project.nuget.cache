@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "V+dpVB2OVPsI2tP4SRDpsAwrCaxskYo3DS4WbHRzKsCSJtGDRDp9oANWc4AUImxIZ/MpusF9if1P6boxr7s01Q==",
+  "dgSpecHash": "rYTtSEK+/VCZJlpqCBj+2FB/5RQY3HzhstXRE6ksKrv7/c4hS4j5A3FHSZo5kXykMXzH0oBfLmlyCNk0ghLLew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Patrick\\Stock windows\\Documents\\GitHub\\threading\\Threading Counters\\Threading Counters.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Patrick\\Stock windows\\Documents\\GitHubSchool\\School\\Semester_3\\Exercises\\MultiThreading\\Threading Counters\\Threading Counters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.3\\microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
+    "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.extensions.logging\\3.1.3\\microsoft.extensions.logging.3.1.3.nupkg.sha512",
+    "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
+    "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512"
+  ],
   "logs": []
 }
